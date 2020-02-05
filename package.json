@@ -22,11 +22,11 @@
     "dark"
     ],
     "repository": {
-    "url": "https://github.com/Galsen-Dev-LAB/Taaru",
+    "url": "https://github.com/daoodaba975/taaru",
     "type": "git"
     },
     "bugs": {
-        "url": "https://github.com/Galsen-Dev-LAB/Taaru/issues"
+        "url": "https://github.com/daoodaba975/taaru/issues"
     },
     "scripts": {
       "start": "nodemon --exec vsce package",
@@ -42,9 +42,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Taarú",
+                "label": "Taarú Night",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Taarú-color-theme.json"
+                "path": "./themes/Taarú-night-theme.json"
+            },
+            {
+                "label": "Taarú Light",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Taarú-light-theme.json"
             }
         ]
     }

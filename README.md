@@ -1,7 +1,7 @@
 # Taarú
 A nice theme with Senegalese beauty, for coding the world.
 
-![theme preview](https://github.com/Galsen-Dev-LAB/Taaru/blob/master/logo/cover.png)
+![theme preview](https://github.com/daoodaba975/taaru/blob/master/logo/cover.png)
 
 
 # Installation
@@ -14,12 +14,12 @@ A nice theme with Senegalese beauty, for coding the world.
 
 ## Contributing
 Found something strange ? <br>
-You can contribute [here](https://github.com/Galsen-Dev-LAB/Taaru/issues). <br>
-Also, you might want to check out the [contributing guide](https://github.com/Galsen-Dev-LAB/Taaru/blob/master/Contributing.md).
+You can contribute [here](https://github.com/daoodaba975/taaru/issues). <br>
+Also, you might want to check out the [contributing guide](https://github.com/daoodaba975/taaru/blob/master/Contributing.md).
 
 
 ## License
-This theme is released under the [MIT License](https://github.com/Galsen-Dev-LAB/Taaru/blob/master/License.md).
+This theme is released under the [MIT License](https://github.com/daoodaba975/taaru/blob/master/License.md).
 
 Created by **[Daouda BA](https://github.com/daoodaba975)** from **Senegal**. Go follow me on **[Twitter](https://twitter.com/daoodaba975)**!
 
