@@ -1,14 +1,44 @@
 {
     "name": "taaru",
     "displayName": "Taarú",
-    "description": "A nice theme with Senegalese beauty, to code the world.",
+    "description": "A nice theme with Senegalese beauty, for coding the world.",
     "version": "0.0.1",
+    "publisher": "daoodaba975",
+    "author": "Daouda BA <daoodaba975@outlook.com> (http://twitter.com/daoodaba975)",
+    "license": "MIT",
     "engines": {
         "vscode": "^1.41.0"
     },
     "categories": [
-        "Themes"
+        "Themes",
+        "Other"
     ],
+    "icon": "logo/icon.png",
+    "keywords": [
+    "material theme",
+    "taaru",
+    "material",
+    "green",
+    "dark"
+    ],
+    "repository": {
+    "url": "https://github.com/Galsen-Dev-LAB/Taaru",
+    "type": "git"
+    },
+    "bugs": {
+        "url": "https://github.com/Galsen-Dev-LAB/Taaru/issues"
+    },
+    "scripts": {
+      "start": "nodemon --exec vsce package",
+      "build": "nodemon --watch src src"
+    },
+    "devDependencies": {
+      "nodemon": "^1.12.1",
+      "vsce": "^1.41.0"
+    },
+    "__metadata": {
+      "publisherDisplayName": "Daouda BA"
+    },
     "contributes": {
         "themes": [
             {
