@@ -2,12 +2,12 @@
     "name": "taaru",
     "displayName": "Taarú",
     "description": "A nice theme with Senegalese beauty, for coding the world.",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "daoodaba975",
     "author": "Daouda BA <daoodaba975@outlook.com> (http://twitter.com/daoodaba975)",
     "license": "MIT",
     "engines": {
-        "vscode": "^1.41.0"
+        "vscode": "^1.41.1"
     },
     "categories": [
         "Themes",
@@ -34,7 +34,7 @@
     },
     "devDependencies": {
       "nodemon": "^1.12.1",
-      "vsce": "^1.41.0"
+      "vsce": "^1.41.1"
     },
     "__metadata": {
       "publisherDisplayName": "Daouda BA"
