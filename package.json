@@ -47,9 +47,9 @@
                 "path": "./themes/Taarú-night-theme.json"
             },
             {
-                "label": "Taarú Light",
+                "label": "Taarú Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Taarú-light-theme.json"
+                "path": "./themes/Taarú-dark-theme.json"
             }
         ]
     }

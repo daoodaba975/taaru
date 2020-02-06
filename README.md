@@ -1,12 +1,19 @@
 # Taarú
 A nice theme with Senegalese beauty, for coding the world.
+![theme cover](https://github.com/daoodaba975/taaru/blob/master/logo/cover.png)
 
-![theme preview](https://github.com/daoodaba975/taaru/blob/master/logo/cover.png)
+
+# Author
+Created by **[Daouda BA](https://github.com/daoodaba975)** from **Senegal**. Go follow me on **[Twitter](https://twitter.com/daoodaba975)**!
+You can buy me a coffee [here](https://www.paypal.me/daoodaba) and help the project to grow up
 
 
-# Installation
+# Screenshot
+![theme preview](https://)
+
+## Installation
 1. Open the **Extensions** sidebar in VS Code. `View → Extensions`
-2. Search for `Taaru`, choose "Material Palenight Theme" by **daoodaba975**
+2. Search for `Taaru`, choose "Taaru" by **daoodaba975**
 3. Click **Install** to install it
 4. Navigate to File > Preferences > Color Theme > **Taaru** or any of the variants listed
 5. And enjoy it.
@@ -18,10 +25,8 @@ You can contribute [here](https://github.com/daoodaba975/taaru/issues). <br>
 Also, you might want to check out the [contributing guide](https://github.com/daoodaba975/taaru/blob/master/Contributing.md).
 
 
-## License
+### License
 This theme is released under the [MIT License](https://github.com/daoodaba975/taaru/blob/master/License.md).
-
-Created by **[Daouda BA](https://github.com/daoodaba975)** from **Senegal**. Go follow me on **[Twitter](https://twitter.com/daoodaba975)**!
 
 
 **Enjoy!**

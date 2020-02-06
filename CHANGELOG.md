@@ -1,9 +1,9 @@
 # Change Log
 
-All notable changes to the "taaru" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 1.0.0 - February20 . First Release (10.02.2020)
+- Every feature added
+- Every bug fixed
 
-## [Unreleased]
-
+## Beginning [Unreleased] (02.02.2020)
 - Initial release
