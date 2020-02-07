@@ -1,5 +1,7 @@
+<div align="center">
+
 # Taarú
-A nice theme with Senegalese beauty, for coding the world.
+A nice theme with Senegalese beauty, for coding the world.<br>
 ![theme cover](https://github.com/daoodaba975/taaru/blob/master/logo/cover.png)
 
 
@@ -10,7 +12,9 @@ You can buy me a coffee **[here](https://www.paypal.me/daoodaba)** and help the 
 
 
 # Screenshots
-![theme preview](https://)
+![theme preview](https://imgur.com/19Pgs7Y)<br>
+![theme preview](https://imgur.com/yzQET6x)
+</div>
 
 
 ## Installation
