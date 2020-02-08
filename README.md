@@ -6,23 +6,23 @@ A nice theme with Senegalese beauty, for coding the world.<br>
 
 
 # Author
-Created by **[Daouda BA](https://github.com/daoodaba975)** from **Senegal**<br>
-Go follow me on **[Twitter](https://twitter.com/daoodaba975)**<br>
-You can buy me a coffee **[here](https://www.paypal.me/daoodaba)** and help the project to grow up 🙌🏾
+Created by **[Daouda BA](https://github.com/daoodaba975)** from **[Senegal]()**<br>
+Follow me on **[Twitter](https://twitter.com/daoodaba975)**<br>
+You can buy me a coffee **[here](https://buymeacoffee.com/daoodaba975)** and help the project to grow up 🙌🏾
+</div>
 
 
 # Screenshots
-![theme preview](https://imgur.com/19Pgs7Y)<br>
-![theme preview](https://imgur.com/yzQET6x)
-</div>
+![screenshot]()<br>
+![screenshot]()
 
 
 ## Installation
 1. Open the **Extensions** sidebar in VS Code. `View → Extensions`
-2. Search for `Taaru`, choose **Taarú** by **daoodaba975**
+2. Search for `Taarú`, choose **Taarú** by **Daouda BA**
 3. Click **Install** to install it
-4. Navigate to File > Preferences > Color Theme > **Taaru** or any of the variants listed
-5. And enjoy it. 👌🏾
+4. Navigate to File > Preferences > Color Theme > **Taarú** or any of the variants listed
+5. And enjoy it 👌🏾
 
 
 ## Contributing

@@ -15,10 +15,13 @@
     ],
     "icon": "logo/icon.png",
     "keywords": [
-    "material theme",
-    "taaru",
     "material",
+    "senegal",
+    "vscode",
+    "theme",
+    "taaru",
     "green",
+    "night",
     "dark"
     ],
     "repository": {
@@ -28,12 +31,7 @@
     "bugs": {
         "url": "https://github.com/daoodaba975/taaru/issues"
     },
-    "scripts": {
-      "start": "nodemon --exec vsce package",
-      "build": "nodemon --watch src src"
-    },
     "devDependencies": {
-      "nodemon": "^1.12.1",
       "vsce": "^1.41.1"
     },
     "__metadata": {
