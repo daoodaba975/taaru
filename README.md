@@ -23,8 +23,8 @@ You can buy me a coffee **[here](https://buymeacoffee.com/daoodaba975)** and hel
 
 
 ## Contributing
-Found something strange 🤔<br>
-You can contribute **[here](https://github.com/daoodaba975/taaru/issues)** 👨🏾‍💻<br>
+Found something strange🤔 new functionality suggestion or more<br>
+You can tell me **[here](https://github.com/daoodaba975/taaru/issues)** 👨🏾‍💻<br>
 Also, you might want to check out the **[Contributing Guide](https://github.com/daoodaba975/taaru/blob/master/Contributing.md)** 🤝🏾
 
 
