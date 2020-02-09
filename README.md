@@ -10,8 +10,8 @@ You can buy me a coffee **[here](https://buymeacoffee.com/daoodaba975)** and hel
 
 
 # Screenshots
-![screenshot]()<br>
-![screenshot]()
+![screenshot](https://github.com/daoodaba975/taaru/blob/master/logo/screenshots/taaru-night.png)<br>
+![screenshot](https://github.com/daoodaba975/taaru/blob/master/logo/screenshots/taaru-dark.png)
 
 
 ## Installation
