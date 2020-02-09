@@ -1,15 +1,12 @@
-<div align="center">
-
 # Taarú
 A nice theme with Senegalese beauty, for coding the world.<br>
 ![theme cover](https://github.com/daoodaba975/taaru/blob/master/logo/cover.png)
 
 
 # Author
-Created by **[Daouda BA](https://github.com/daoodaba975)** from **[Senegal]()**<br>
+Created by **[Daouda BA](https://github.com/daoodaba975)** from **[Senegal](https://goo.gl/maps/gYi1X5wo8AdwSM2C9)**<br>
 Follow me on **[Twitter](https://twitter.com/daoodaba975)**<br>
 You can buy me a coffee **[here](https://buymeacoffee.com/daoodaba975)** and help the project to grow up 🙌🏾
-</div>
 
 
 # Screenshots
