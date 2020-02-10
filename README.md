@@ -1,6 +1,6 @@
 # Taarú
 A nice theme with Senegalese beauty, for coding the world.<br>
-![theme cover](taaru/blob/master/logo/cover.png)
+![theme cover](logo/cover.png)
 
 
 # Author
