@@ -1,6 +1,6 @@
 # Taarú
 A nice theme with Senegalese beauty, for coding the world.<br>
-![theme cover](https://raw.githubusercontent.com/daoodaba975/taaru/blob/master/logo/cover.png)
+![theme cover](https://drive.google.com/file/d/1_dQbp4Ga6kMee7IyWxIG_B9V3Q2UmlBd/view?usp=sharing)
 
 
 # Author
@@ -10,8 +10,8 @@ You can buy me a coffee **[here](https://buymeacoffee.com/daoodaba975)** and hel
 
 
 # Screenshots
-![screenshot](https://raw.githubusercontent.com/daoodaba975/taaru/blob/master/logo/screenshots/taaru-night.PNG)<br>
-![screenshot](https://raw.githubusercontent.com/daoodaba975/taaru/blob/master/logo/screenshots/taaru-dark.PNG)
+![screenshot](https://drive.google.com/file/d/1Y0j4K44at7BenfTvnjR79GyOBaosNx3J/view?usp=sharing)<br>
+![screenshot](https://drive.google.com/file/d/18UhdXowmnYl6uOb-LTN2UDCcKGm5CXMT/view?usp=sharing)
 
 
 ## Installation
