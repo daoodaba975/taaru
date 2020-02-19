@@ -1,8 +1,8 @@
 {
     "name": "taaru",
     "displayName": "Taarú",
-    "description": "A nice theme with Senegalese beauty, for coding the world.",
-    "version": "0.1.0",
+    "description": "🚀 A nice theme with Senegalese beauty, for coding the world.",
+    "version": "0.1.1",
     "publisher": "daoodaba975",
     "author": "Daouda BA <daoodaba975@outlook.com> (http://twitter.com/daoodaba975)",
     "license": "MIT",
@@ -48,6 +48,11 @@
                 "label": "Taarú Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Taarú-dark-theme.json"
+            },
+            {
+                "label": "Taarú Abyss",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Taarú-abyss-theme.json"
             }
         ]
     }
