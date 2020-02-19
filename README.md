@@ -1,5 +1,5 @@
 # Taarú
-🚀 A nice theme with Senegalese beauty, for coding the world.<br>
+A nice theme with Senegalese beauty, for coding the world.<br>
 ![cover](logo/cover.png?raw=true "cover")
 
 
