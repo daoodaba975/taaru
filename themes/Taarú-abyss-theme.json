@@ -1,5 +1,5 @@
 {
-	"name": "Abyss",
+	"name": "Taarú Abyss",
     "type": "dark",
     "maintainers": ["Daouda BA <daoodaba975@outlook.com>"],
 	"semanticClass": "taaru",
@@ -61,11 +61,10 @@
 		"activityBar.foreground": "#00FF9C",
         "activityBarBadge.background": "#00FF9C",
 		"activityBarBadge.foreground": "#001107",
+		"activityBar.border": "#141414",
         
         "badge.background": "#00FF9C",
         "badge.foreground": "#001107",
-        
-        "activityBar.border": "#141414",
         
         "editor.background": "#141414",
 		"editor.foreground": "#00FF9C",

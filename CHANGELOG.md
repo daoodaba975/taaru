@@ -1,7 +1,7 @@
 # Change Log
 
 
-## 0.1.1 - March20 Δ [BETA] - First Release (1.03.2020)
+## 0.1.1 - February20 Δ [BETA] - First Release (24.02.2020)
 - Every issues fixed
 - A new dark (Taarú Abyss) theme added
 
