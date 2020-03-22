@@ -1,37 +1,56 @@
-# Taarú
-A nice theme with Senegalese beauty, for coding the world.<br>
+# Taarú 🎨
+
+A nice theme with Senegalese beauty, for coding the world.
+
 ![cover](images/cover.png?raw=true "cover")
 
+## Author 🌟
 
-# Author
-Created by **[Daouda BA](https://github.com/daoodaba975)** from **[Senegal](https://goo.gl/maps/gYi1X5wo8AdwSM2C9)**<br>
-Follow me on **[Twitter](https://twitter.com/daoodaba975)**<br>
-You can buy me a coffee **[here](https://buymeacoffee.com/daoodaba975)** and help the project to grow up 🙌🏾
+<table>
+  <tr>
+    <td align="center">
+        <a href="https://github.com/daoodaba975">
+            <img src="https://avatars3.githubusercontent.com/u/46088908?s=460&u=3e30cc712628571c8675d1c8584d9dbaa9fc623f&v=4" width="100px;" alt=""/>
+            <br/>
+            <sub><b>Daouda BA</b></sub>
+        </a>
+            <br/>
+        <a href="https://daoodaba975.netlify.com" title="Website">🌐</a>
+        <a href="https://twitter.com/daoodaba975" title="Twitter">🐤</a>
+        <a href="mailto:daoodaba975@outlook.com" title="Mail">📩</a>
+    </td>
+  </tr>
+</table>
 
+> Created by **[Daouda BA](https://github.com/daoodaba975)**, developer Web/Mobile, founder of **[Galsen Dev](https://github.com/Galsen-Dev-LAB)** from **[Senegal](https://goo.gl/maps/gYi1X5wo8AdwSM2C9)**
 
-# Screenshots
-![screenshot](images/screenshots/taaru-night.PNG?raw=true "screenshot")<br>
-![screenshot](images/screenshots/taaru-dark.PNG?raw=true "screenshot")<br>
+> You can buy me a coffee **[here](https://buymeacoffee.com/daoodaba975)** and help the project to grow up 🙌🏾
+
+## Screenshots 📷
+
+![screenshot](images/screenshots/taaru-night.PNG?raw=true "screenshot")
+
+![screenshot](images/screenshots/taaru-dark.PNG?raw=true "screenshot")
+
 **New theme added (Taarú Abyss)**
 ![screenshot](images/screenshots/taaru-abyss.PNG?raw=true "screenshot")
 
+## Installation 📥
 
-## Installation
 1. Open the **Extensions** sidebar in VS Code. `View → Extensions`
 2. Search for `Taarú`, choose **Taarú** by **Daouda BA**
 3. Click **Install** to install it
 4. Navigate to File > Preferences > Color Theme > **Taarú** or any of the variants listed
 5. And enjoy it 👌🏾
 
+## Contributing 🌍
 
-## Contributing
-Found something strange🤔, new functionality suggestion or more<br>
-You can tell me **[here](https://github.com/daoodaba975/taaru/issues)** or on **[Twitter](https://twitter.com/daoodaba975)** 🐦<br>
+Found something strange🤔, new functionality suggestion or more.. You can tell me **[here](https://github.com/daoodaba975/taaru/issues)** or on **[Twitter](https://twitter.com/daoodaba975)** 🐦<br>
+
 Also, you might want to check out the **[Contributing Guide](https://github.com/daoodaba975/taaru/blob/master/Contributing.md)** 🤝🏾
 
+### License 🎫
 
-### License
 This theme is released under the **[MIT License](https://github.com/daoodaba975/taaru/blob/master/License.md)** ✔
 
-
-**Enjoy!** 🙏🏾
+> **Enjoy!** 🙏🏾
