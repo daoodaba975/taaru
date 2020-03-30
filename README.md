@@ -28,19 +28,21 @@ A nice theme with Senegalese beauty, for coding the world.
 
 ## Screenshots 📷
 
+**Taarú Night**
 ![screenshot](images/screenshots/taaru-night.PNG?raw=true "screenshot")
 
+**Taarú Dark**
 ![screenshot](images/screenshots/taaru-dark.PNG?raw=true "screenshot")
 
-**New theme added (Taarú Abyss)**
+**Taarú Abyss**
 ![screenshot](images/screenshots/taaru-abyss.PNG?raw=true "screenshot")
 
 ## Installation 📥
 
-1. Open the **Extensions** sidebar in VS Code. `View → Extensions`
+1. Open the `Extensions` sidebar in VS Code. `View → Extensions`
 2. Search for `Taarú`, choose **Taarú** by **Daouda BA**
-3. Click **Install** to install it
-4. Navigate to File > Preferences > Color Theme > **Taarú** or any of the variants listed
+3. Click `Install` to install it
+4. Navigate to `File` > `Preferences` > `Color Theme` > `Taarú` or any of the variants listed
 5. And enjoy it 👌🏾
 
 ## Contributing 🌍
