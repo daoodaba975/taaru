@@ -1,12 +1,13 @@
 # Contribute to this Project
+
 **VS Code** [Theme Color Reference](https://code.visualstudio.com/docs/getstarted/theme-color-reference) _is a really great resource to get started with_
 
-
 ## Requirements
+
 Make sure you have **Node.js** and **Git** installed
 
-
 ## Follow these steps
+
 1. Fork this repo
 2. Open the forked repo in your terminal and run `npm install`
 3. Open the repo in **VS Code**
@@ -23,7 +24,7 @@ Make sure you have **Node.js** and **Git** installed
 14. I'll review it, and decide whether it should be merged
 15. You're done
 
-
 ### Jajeuf 😜
+
 Thanks for showing interest and helping out 🤙🏾<br>
 If you get stuck somewhere, contact me on **[Twitter](https://twitter.com/daoodaba975)** 👍🏾

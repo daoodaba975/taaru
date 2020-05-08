@@ -1,4 +1,10 @@
 font name: Merienda-Bold
 font link: https://fonts.google.com/specimen/Merienda
       
-{"bg":"#EBFBFA","icon-gradient-0":"#41E296","icon-gradient-1":"#00C4EE","font":"#08403F","slogan":"#1c5453"}
+#basic-color {
+    "bg":"#EBFBFA",
+    "icon-gradient-0":"#41E296",
+    "icon-gradient-1":"#00C4EE",
+    "font":"#08403F",
+    "slogan":"#1c5453"
+}
