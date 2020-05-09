@@ -1,6 +1,6 @@
 # Change Log
 
-This file lists all the changes according to the different versions
+This file lists all the changes according to the different versions.
 
 ## 0.1.5 - May20 Δ [BETA] - Update (25.05.2020)
 
