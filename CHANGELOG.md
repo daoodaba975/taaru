@@ -2,7 +2,7 @@
 
 This file lists all the changes according to the different versions.
 
-## 0.1.5 - May20 Δ [BETA] - Update (25.05.2020)
+## 0.1.5 - May20 Δ [BETA] - Update (02.06.2020)
 
 - fixing some issues
 - A new dark (Taarú Abyss) theme added
