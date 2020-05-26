@@ -53,6 +53,11 @@
                 "label": "Taarú Abyss",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Taarú-abyss-theme.json"
+            },
+            {
+                "label": "Taarú Blueberry",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Taarú-blueberry-theme.json"
             }
         ]
     }
