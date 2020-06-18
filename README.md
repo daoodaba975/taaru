@@ -22,7 +22,7 @@ A nice theme with Senegalese beauty, for coding the world.
   </tr>
 </table>
 
-> Created by **[Daouda BA](https://github.com/daoodaba975)**, developer Web/Mobile, founder of **[Galsen Dev](https://github.com/Galsen-Dev-LAB)** from **[Senegal](https://goo.gl/maps/gYi1X5wo8AdwSM2C9)**
+> Created by **[Daouda BA](https://github.com/daoodaba975)**, developer web/mobile, founder of **[Galsen Dev](https://github.com/Galsen-Dev-LAB)** from **[Senegal](https://goo.gl/maps/gYi1X5wo8AdwSM2C9)**
 
 > You can buy me a coffee **[here](https://buymeacoffee.com/daoodaba975)** and help the project to grow up 🙌🏾
 
@@ -36,6 +36,9 @@ A nice theme with Senegalese beauty, for coding the world.
 
 **Taarú Abyss**
 ![screenshot](images/screenshots/taaru-abyss.PNG?raw=true "screenshot")
+
+**Taarú Blueberry**
+![screenshot](images/screenshots/taaru-blueberry.PNG?raw=true "screenshot")
 
 ## Installation 📥
 
