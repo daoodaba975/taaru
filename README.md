@@ -28,16 +28,16 @@ A nice theme with Senegalese beauty, for coding the world.
 
 ## Screenshots 📷
 
-**Taarú Night**
+**Taarú Night 🌇**
 ![screenshot](images/screenshots/taaru-night.PNG?raw=true "screenshot")
 
-**Taarú Dark**
+**Taarú Dark 🌚**
 ![screenshot](images/screenshots/taaru-dark.PNG?raw=true "screenshot")
 
-**Taarú Abyss**
+**Taarú Abyss 🌌**
 ![screenshot](images/screenshots/taaru-abyss.PNG?raw=true "screenshot")
 
-**Taarú Blueberry**
+**Taarú Blueberry 🍇**
 ![screenshot](images/screenshots/taaru-blueberry.PNG?raw=true "screenshot")
 
 ## Installation 📥
