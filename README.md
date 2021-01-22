@@ -52,7 +52,7 @@ A nice theme with Senegalese beauty, for coding the world.
 
 ## Contributing 🌍
 
-Found something strange🤔, new functionality suggestion or more.. You can tell me **[here](https://github.com/daoodaba975/taaru/issues)** or on **[Twitter](https://twitter.com/daoodaba975)** 🐦<br>
+New functionality suggestion or more.. You can tell me **[here](https://github.com/daoodaba975/taaru/issues)** or on **[Twitter](https://twitter.com/daoodaba975)** 🐦
 
 Also, you might want to check out the **[Contributing Guide](https://github.com/daoodaba975/taaru/blob/master/Contributing.md)** 🤝🏾
 
