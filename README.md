@@ -1,34 +1,23 @@
 # Taarú 🎨
 
-A nice theme with Senegalese beauty, for coding the world.
+<p align="center">
+    <img alt="taaru banner" src="images/cover.png">
+</p>
 
-![cover](images/cover.png?raw=true "cover")
-
-## Author 🌟
-
-<table>
-  <tr>
-    <td align="center">
-        <a href="https://github.com/daoodaba975">
-            <img src="https://avatars3.githubusercontent.com/u/46088908?s=460&u=3e30cc712628571c8675d1c8584d9dbaa9fc623f&v=4" width="100px;" alt=""/>
-            <br/>
-            <sub><b>Daouda BA</b></sub>
-        </a>
-            <br/>
-        <a href="https://daoodaba975.netlify.com" title="Website">🌐</a>
-        <a href="https://twitter.com/daoodaba975" title="Twitter">🐤</a>
-        <a href="mailto:daoodaba975@outlook.com" title="Mail">📩</a>
-    </td>
-  </tr>
-</table>
-
-> Created by **[Daouda BA](https://github.com/daoodaba975)**, developer web/mobile, founder of **[Galsen Dev](https://www.liinks.co/galsendev221)** from **[Senegal](https://goo.gl/maps/gYi1X5wo8AdwSM2C9)**
-
-> You can buy me a coffee ☕ and help the project to grow up 🙌🏾
-
-<a href="https://www.buymeacoffee.com/daoodaba975" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important; border-radius: 10px;" ></a>
-
-## Screenshots 📷
+<p align="center">
+  <!-- marketplace version -->
+  <a href="https://marketplace.visualstudio.com/items?itemName=daoodaba975.taaru">
+    <img alt="marketplace version" src="https://img.shields.io/vscode-marketplace/v/daoodaba975.taaru.svg?maxAge=3600&style=for-the-badge&labelColor=1D4930&color=52BF81">
+  </a>
+  <!-- downloads -->
+  <a href="https://marketplace.visualstudio.com/items?itemName=daoodaba975.taaru">
+    <img alt="downloads" src="https://img.shields.io/visual-studio-marketplace/d/daoodaba975.taaru.svg?maxAge=3600&style=for-the-badge&labelColor=1D4930&color=52BF81">
+  </a>
+  <!-- rating -->
+  <a href="https://marketplace.visualstudio.com/items?itemName=daoodaba975.taaru">
+    <img alt="rating" src="https://img.shields.io/visual-studio-marketplace/stars/daoodaba975.taaru.svg?maxAge=86400&style=for-the-badge&labelColor=1D4930&color=52BF81">
+  </a>
+</p>
 
 **Taarú Night 🌇**
 ![screenshot](images/screenshots/taaru-night.PNG?raw=true "screenshot")
@@ -49,6 +38,30 @@ A nice theme with Senegalese beauty, for coding the world.
 3. Click `Install` to install it
 4. Navigate to `File` > `Preferences` > `Color Theme` > `Taarú` or any of the variants listed
 5. And enjoy it 👌🏾
+
+## Author 🌟
+
+<table>
+  <tr>
+    <td align="center">
+        <a href="https://github.com/daoodaba975">
+            <img src="https://avatars.githubusercontent.com/daoodaba975" width="80px;" alt=""/>
+            <br/>
+            <sub><b>Daouda BA</b></sub>
+        </a>
+            <br/>
+        <a href="https://daoodaba.dev" title="Website">🌐</a>
+        <a href="https://twitter.com/daoodaba975" title="Twitter">🐤</a>
+        <a href="mailto:daoodaba975@outlook.com" title="Mail">📩</a>
+    </td>
+  </tr>
+</table>
+
+> Created by **[Daouda BA](https://github.com/daoodaba975)**, developer web/mobile, founder of **[Galsen Dev](https://www.liinks.co/galsendev221)** from **[Senegal](https://goo.gl/maps/gYi1X5wo8AdwSM2C9)**
+
+> You can buy me a coffee ☕ and help the project to grow up 🙌🏾
+
+<a href="https://www.buymeacoffee.com/daoodaba975" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important; border-radius: 10px;" ></a>
 
 ## Contributing 🌍
 

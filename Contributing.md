@@ -11,7 +11,7 @@ Make sure you have **Node.js** and **Git** installed
 1. Fork this repo
 2. Open the forked repo in your terminal and run `npm install`
 3. Open the repo in **VS Code**
-4. Launch your command palette <kbd>Ctrl/Cmd+Shift+P</kbd> and type **VSIX**
+4. Launch your command palette `Ctrl/Cmd+Shift+P` and type **VSIX**
 5. Select the one that says **Extensions: Install from VSIX**
 6. Load the **VSIX** file you created a few steps back
 7. Go to the debug sidebar `View → Debug`
@@ -26,5 +26,5 @@ Make sure you have **Node.js** and **Git** installed
 
 ### Jajeuf 😜
 
-Thanks for showing interest and helping out 🤙🏾<br>
+Thanks for showing interest and helping out 🤙🏾  
 If you get stuck somewhere, contact me on **[Twitter](https://twitter.com/daoodaba975)** 👍🏾

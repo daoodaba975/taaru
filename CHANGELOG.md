@@ -2,6 +2,10 @@
 
 This file lists all the changes according to the different versions.
 
+## 0.2.0 - August20 Δ [BETA] - Update (09/08/2020)
+
+- fixing some issues
+
 ## 0.1.5 - June20 Δ [BETA] - Update (19.06.2020)
 
 - fixing some issues
