@@ -2,7 +2,7 @@
     "name": "taaru",
     "displayName": "Taarú",
     "description": "🚀 A nice theme with Senegalese beauty, for coding the world.",
-    "version": "0.5.0",
+    "version": "0.5",
     "publisher": "daoodaba975",
     "author": "Daouda BA <daoodaba975@outlook.com> (http://twitter.com/daoodaba975)",
     "license": "MIT",
@@ -63,11 +63,6 @@
                 "label": "Taarú Blueberry",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Taarú-blueberry-theme.json"
-            },
-            {
-                "label": "Taarú Light",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Taarú-light-theme.json"
             }
         ]
     }
