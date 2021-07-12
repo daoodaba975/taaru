@@ -20,16 +20,16 @@
 </p>
 
 **Taarú Night 🌇**
-![screenshot](images/screenshots/taaru-night.PNG?raw=true "screenshot")
+![screenshot](images/screenshots/taaru-night.jpg?raw=true "screenshot")
 
 **Taarú Dark 🌚**
-![screenshot](images/screenshots/taaru-dark.PNG?raw=true "screenshot")
+![screenshot](images/screenshots/taaru-dark.jpg?raw=true "screenshot")
 
-**Taarú Abyss 🌌**
-![screenshot](images/screenshots/taaru-abyss.PNG?raw=true "screenshot")
+**Taarú Teranga ✨**
+![screenshot](images/screenshots/taaru-teranga.jpg?raw=true "screenshot")
 
 **Taarú Blueberry 🍇**
-![screenshot](images/screenshots/taaru-blueberry.PNG?raw=true "screenshot")
+![screenshot](images/screenshots/taaru-blueberry.jpg?raw=true "screenshot")
 
 ## Installation 📥
 
