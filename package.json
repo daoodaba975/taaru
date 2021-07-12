@@ -45,19 +45,14 @@
                 "path": "./themes/Taarú-dark-theme.json"
             },
             {
-                "label": "Taarú Teranga",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Taarú-teranga-theme.json"
-            },
-            {
                 "label": "Taarú Night",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Taarú-night-theme.json"
             },
             {
-                "label": "Taarú Abyss",
+                "label": "Taarú Teranga",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Taarú-abyss-theme.json"
+                "path": "./themes/Taarú-teranga-theme.json"
             },
             {
                 "label": "Taarú Blueberry",

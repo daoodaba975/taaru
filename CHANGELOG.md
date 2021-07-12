@@ -2,6 +2,12 @@
 
 This file lists all the changes according to the different versions.
 
+## 0.5 - July20 Δ [BETA] - Update (12.07.2021)
+
+- fixing some issues
+- A new dark (Taarú Teranga) theme added
+- Deleting Taarú Abyss theme because some major error
+
 ## 0.2.0 - August20 Δ [BETA] - Update (09/08/2020)
 
 - fixing some issues
