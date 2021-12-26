@@ -19,17 +19,17 @@
   </a>
 </p>
 
-**Taarú Night 🌇**
-![screenshot](images/screenshots/taaru-night.jpg?raw=true "screenshot")
+**Night 🌇**
+![screenshot](images/screenshots/night.png?raw=true "night")
 
-**Taarú Dark 🌚**
-![screenshot](images/screenshots/taaru-dark.jpg?raw=true "screenshot")
+**Dark 🌚**
+![screenshot](images/screenshots/dark.png?raw=true "dark")
 
-**Taarú Teranga ✨**
-![screenshot](images/screenshots/taaru-teranga.jpg?raw=true "screenshot")
+**Teranga ✨**
+![screenshot](images/screenshots/teranga.png?raw=true "teranga")
 
-**Taarú Blueberry 🍇**
-![screenshot](images/screenshots/taaru-blueberry.jpg?raw=true "screenshot")
+**Djolof 🦁**
+![screenshot](images/screenshots/djolof.png?raw=true "djolof")
 
 ## Installation 📥
 
@@ -50,22 +50,23 @@
             <sub><b>Daouda BA</b></sub>
         </a>
             <br/>
-        <a href="https://daoodaba.dev" title="Website">🌐</a>
+        <a href="https://daooda.dev" title="Website">🌐</a>
         <a href="https://twitter.com/daoodaba975" title="Twitter">🐤</a>
         <a href="mailto:daoodaba975@outlook.com" title="Mail">📩</a>
     </td>
   </tr>
 </table>
 
-> Created by **[Daouda BA](https://github.com/daoodaba975)**, developer web/mobile, founder of **[Galsen Dev](https://www.liinks.co/galsendev221)** from **[Senegal](https://goo.gl/maps/gYi1X5wo8AdwSM2C9)**
+Created by **[Daouda BA](https://github.com/daoodaba975)**
 
-> You can buy me a coffee ☕ and help the project to grow up 🙌🏾
+You can buy me a coffee ☕ and help the project to grow up 🙌🏾
 
 <a href="https://www.buymeacoffee.com/daoodaba975" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important; border-radius: 10px;" ></a>
 
 ## Contributing 🌍
 
-New functionality suggestion or more.. You can tell me **[here](https://github.com/daoodaba975/taaru/issues)** or on **[Twitter](https://twitter.com/daoodaba975)** 🐦
+New functionality suggestion or more..  
+You can tell me **[here](https://github.com/daoodaba975/taaru/issues)** or on **[Twitter](https://twitter.com/daoodaba975)** 🐦
 
 Also, you might want to check out the **[Contributing Guide](https://github.com/daoodaba975/taaru/blob/master/Contributing.md)** 🤝🏾
 
@@ -73,4 +74,4 @@ Also, you might want to check out the **[Contributing Guide](https://github.com/
 
 This theme is released under the **[MIT License](https://github.com/daoodaba975/taaru/blob/master/License.md)** ✔
 
-> **Enjoy!** 🙏🏾
+**Enjoy!** 🙏🏾
