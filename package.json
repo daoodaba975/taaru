@@ -1,8 +1,8 @@
 {
     "name": "taaru",
     "displayName": "Taarú",
-    "description": "🚀 A nice theme with Senegalese beauty, for coding the world.",
-    "version": "0.5.0",
+    "description": "A collection of pretty dark VS Code theme with Senegalese beauty 🪐",
+    "version": "1.0.0",
     "publisher": "daoodaba975",
     "author": "Daouda BA <daoodaba975@outlook.com> (http://twitter.com/daoodaba975)",
     "license": "MIT",
@@ -10,54 +10,51 @@
         "vscode": "^1.41.1"
     },
     "categories": [
-        "Themes",
-        "Other"
+        "Themes"
     ],
     "icon": "images/icon.png",
     "keywords": [
-    "material",
-    "senegal",
-    "vscode",
-    "theme",
-    "taaru",
-    "green",
-    "night",
-    "dark"
+        "senegal",
+        "vscode",
+        "theme",
+        "taaru",
+        "night",
+        "dark"
     ],
     "repository": {
-    "url": "https://github.com/daoodaba975/taaru",
-    "type": "git"
+        "url": "https://github.com/daoodaba975/taaru",
+        "type": "git"
     },
     "bugs": {
         "url": "https://github.com/daoodaba975/taaru/issues"
     },
     "devDependencies": {
-      "vsce": "^1.41.1"
+        "vsce": "^1.41.1"
     },
     "__metadata": {
-      "publisherDisplayName": "Daouda BA"
+        "publisherDisplayName": "Daouda BA"
     },
     "contributes": {
         "themes": [
             {
-                "label": "Taarú Dark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Taarú-dark-theme.json"
-            },
-            {
                 "label": "Taarú Night",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Taarú-night-theme.json"
+                "path": "./themes/night.json"
+            },
+            {
+                "label": "Taarú Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark.json"
             },
             {
                 "label": "Taarú Teranga",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Taarú-teranga-theme.json"
+                "path": "./themes/teranga.json"
             },
             {
-                "label": "Taarú Blueberry",
+                "label": "Taarú Djolof",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Taarú-blueberry-theme.json"
+                "path": "./themes/djolof.json"
             }
         ]
     }
