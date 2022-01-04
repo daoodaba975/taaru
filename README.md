@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <!-- made-in-senegal badge -->
+  <a href="https://github.com/GalsenDev221/made.in.senegal">
+    <img alt="made-in-senegal badge" src="https://github.com/GalsenDev221/made.in.senegal/blob/master/assets/badge.svg">
+  </a> <br/>
   <!-- marketplace version -->
   <a href="https://marketplace.visualstudio.com/items?itemName=daoodaba975.taaru">
     <img alt="marketplace version" src="https://img.shields.io/vscode-marketplace/v/daoodaba975.taaru.svg?maxAge=3600&style=for-the-badge&labelColor=1D4930&color=52BF81">
