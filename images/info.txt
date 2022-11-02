@@ -1,7 +1,0 @@
-color {
-    #3F9463
-    #52BF81
-    #A2DFBC
-    #EBFBFA
-    #1D4930
-}
