@@ -1,7 +1,7 @@
 # Taarú 🎨
 
 <p align="center">
-    <img alt="taaru banner" src="images/cover.png">
+    <img alt="taaru banner" src="assets/images/cover.png">
 </p>
 
 <p align="center">
@@ -24,16 +24,16 @@
 </p>
 
 **Night 🌇**
-![screenshot](images/screenshots/night.png?raw=true "night")
+![screenshot](assets/images/screenshots/night.png?raw=true "night")
 
 **Dark 🌚**
-![screenshot](images/screenshots/dark.png?raw=true "dark")
+![screenshot](assets/images/screenshots/dark.png?raw=true "dark")
 
 **Teranga ✨**
-![screenshot](images/screenshots/teranga.png?raw=true "teranga")
+![screenshot](assets/images/screenshots/teranga.png?raw=true "teranga")
 
 **Djolof 🦁**
-![screenshot](images/screenshots/djolof.png?raw=true "djolof")
+![screenshot](assets/images/screenshots/djolof.png?raw=true "djolof")
 
 ## Installation 📥
 
@@ -72,10 +72,18 @@ You can buy me a coffee ☕ and help the project to grow up 🙌🏾
 New functionality suggestion or more..  
 You can tell me **[here](https://github.com/daoodaba975/taaru/issues)** or on **[Twitter](https://twitter.com/daoodaba975)** 🐦
 
-Also, you might want to check out the **[Contributing Guide](https://github.com/daoodaba975/taaru/blob/master/Contributing.md)** 🤝🏾
+Also, you might want to check out the **[Contributing Guide](assets/CONTRIBUTING.md)** 🤝🏾
+
+Thanks to all contributors 👏🏽
+
+<a href="https://github.com/daoodaba975/taaru/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=daoodaba975/taaru" />
+</a>
+
+You can also consult the [Changelog](assets/CHANGELOG.md) to see the different changes and evolution between versions.
 
 ### License 🎫
 
-This theme is released under the **[MIT License](https://github.com/daoodaba975/taaru/blob/master/License.md)** ✔
+This theme is released under the **[MIT License](assets/LICENCE.md)** ✔
 
 **Enjoy!** 🙏🏾
