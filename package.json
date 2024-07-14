@@ -1,61 +1,56 @@
 {
-    "name": "taaru",
-    "displayName": "Taarú",
-    "description": "A collection of pretty dark VS Code theme with Senegalese beauty 🪐",
-    "version": "1.0.0",
-    "publisher": "daoodaba975",
-    "author": "Daouda BA <daoodaba975@outlook.com> (http://twitter.com/daoodaba975)",
-    "license": "MIT",
-    "engines": {
-        "vscode": "^1.41.1"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "icon": "images/icon.png",
-    "keywords": [
-        "senegal",
-        "vscode",
-        "theme",
-        "taaru",
-        "night",
-        "dark"
-    ],
-    "repository": {
-        "url": "https://github.com/daoodaba975/taaru",
-        "type": "git"
-    },
-    "bugs": {
-        "url": "https://github.com/daoodaba975/taaru/issues"
-    },
-    "devDependencies": {
-        "vsce": "^1.41.1"
-    },
-    "__metadata": {
-        "publisherDisplayName": "Daouda BA"
-    },
-    "contributes": {
-        "themes": [
-            {
-                "label": "Taarú Night",
-                "uiTheme": "vs-dark",
-                "path": "./themes/night.json"
-            },
-            {
-                "label": "Taarú Dark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/dark.json"
-            },
-            {
-                "label": "Taarú Teranga",
-                "uiTheme": "vs-dark",
-                "path": "./themes/teranga.json"
-            },
-            {
-                "label": "Taarú Djolof",
-                "uiTheme": "vs-dark",
-                "path": "./themes/djolof.json"
-            }
-        ]
-    }
+  "name": "taaru",
+  "displayName": "Taarú",
+  "description": "A collection of pretty dark VS Code theme with Senegalese beauty 🪐",
+  "version": "1.0.0",
+  "publisher": "daoodaba975",
+  "author": "Daouda BA <daoodaba975@outlook.com> (http://twitter.com/daoodaba975)",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.41.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "images/icon.png",
+  "keywords": [
+    "senegal",
+    "vscode",
+    "theme",
+    "taaru",
+    "night",
+    "dark"
+  ],
+  "repository": {
+    "url": "https://github.com/daoodaba975/taaru",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/daoodaba975/taaru/issues"
+  },
+  "devDependencies": {
+    "vsce": "^1.41.1"
+  },
+  "__metadata": {
+    "publisherDisplayName": "Daouda BA"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Taarú Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark.json"
+      },
+      {
+        "label": "Taarú Teranga",
+        "uiTheme": "vs-dark",
+        "path": "./themes/teranga.json"
+      },
+      {
+        "label": "Taarú Djolof",
+        "uiTheme": "vs-dark",
+        "path": "./themes/djolof.json"
+      }
+    ]
+  }
 }
