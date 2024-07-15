@@ -27,4 +27,4 @@ Make sure you have **Node.js** and **Git** installed
 ### Jajeuf 😜
 
 Thanks for showing interest and helping out 🤙🏾  
-If you get stuck somewhere, contact me on **[Twitter](https://twitter.com/daoodaba975)** 👍🏾
+If you get stuck somewhere, contact me on **[X (Twitter)](https://x.com/daoodaba975)** 👍🏾

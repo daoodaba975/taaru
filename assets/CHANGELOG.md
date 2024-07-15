@@ -2,31 +2,40 @@
 
 This file lists all the changes according to the different versions.
 
-## 1.0 - December21 - Update (26.12.2021)
+## 2.0 - July24 - Update (15.07.2024)
 
-- new icon added
-- fixing some issues
+- Name changed (Taarú to -> Taaru)
+- Delete Taarú Nightand add new theme : Biddeew
+- Rename all theme (simple naming)
+- Some minor color fix on Guddi (old Taarú Dark)
+- Update screenshots (one image file now), change cover image
+- Update docs README, LICENSE and CONTRIBUTING
+
+### 1.0 - December21 - Update (26.12.2021)
+
+- New icon added
+- Fixing some issues
 - A new dark (Taarú Djolof) theme added
 - Deleting Taarú Teranga theme, because color bind didn't work well
 
 ### 0.5 - July21 [BETA] - Update (12.07.2021)
 
-- fixing some issues
+- Fixing some issues
 - A new dark (Taarú Teranga) theme added
 - Deleting Taarú Abyss theme because some major error
 
-## 0.2.0 - August20 [BETA] - Update (09/08/2020)
+### 0.2.0 - August20 [BETA] - Update (09/08/2020)
 
-- fixing some issues
+- Fixing some issues
 
-## 0.1.5 - June20 [BETA] - Update (19.06.2020)
+#### 0.1.5 - June20 [BETA] - Update (19.06.2020)
 
-- fixing some issues
+- Fixing some issues
 - A new dark (Taarú Blueberry) theme added
 
-### 0.1.1 - February20 [BETA] - Update (24.02.2020)
+#### 0.1.1 - February20 [BETA] - Update (24.02.2020)
 
-- fixing some issues
+- Fixing some issues
 - A new dark (Taarú Abyss) theme added
 
 #### 0.1.0 - February20 [BETA] - First Release (09.02.2020)
