@@ -34,6 +34,6 @@ You can also check the **[Changelog](assets/CHANGELOG.md)** to see the different
 
 ### License 🎫
 
-This theme is released under the **[MIT License](assets/LICENSE.md)** ✔
+This theme is released under the **[MIT License](LICENSE.md)** ✔
 
 **Enjoy!** 🙏🏾
