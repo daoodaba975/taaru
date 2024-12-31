@@ -9,6 +9,8 @@
 
 ![cover](assets/images/screenshot.png)
 
+Taaru VS Code Theme crafted by **[Daouda BA](https://github.com/daoodaba975)**, you can support this project by making a donation **[here](https://www.buymeacoffee.com/daoodaba975)**.
+
 ## Installation 📥
 
 1. Open the `Extensions` sidebar in VS Code. `View → Extensions`
@@ -16,10 +18,6 @@
 3. Click `Install` to install it
 4. Navigate to `File` > `Preferences` > `Color Theme` > `Taaru` or any of the variants listed
 5. And enjoy it 👌🏾
-
-## Author 🌟
-
-Taaru VS Code Theme crafted by **[Daouda BA](https://github.com/daoodaba975)**, you can support this project by making a donation **[here](https://www.buymeacoffee.com/daoodaba975)**.
 
 ### Contributing 🌍
 
