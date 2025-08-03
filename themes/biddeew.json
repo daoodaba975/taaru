@@ -1,5 +1,8 @@
 {
+  "name": "Biddeew",
   "type": "dark",
+  "maintainers": ["Daouda BA <daoodaba975@outlook.com>"],
+  "semanticClass": "taaru",
   "colors": {
     "focusBorder": "#643173b3",
     "foreground": "#565b66",

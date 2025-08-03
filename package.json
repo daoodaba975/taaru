@@ -2,12 +2,12 @@
   "name": "taaru",
   "displayName": "Taaru",
   "description": "Collection of pretty dark VS Code theme with Senegalese beauty 🪐",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "publisher": "daoodaba975",
   "author": "Daouda BA <daoodaba975@outlook.com> (https://x.com/daoodaba975)",
   "license": "MIT",
   "engines": {
-    "vscode": "^1.41.1"
+    "vscode": "^1.76.0"
   },
   "categories": [
     "Themes"
@@ -37,14 +37,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Biddeew",
+        "label": "Teranga",
         "uiTheme": "vs-dark",
-        "path": "./themes/biddeew.json"
-      },
-      {
-        "label": "Guddi",
-        "uiTheme": "vs-dark",
-        "path": "./themes/guddi.json"
+        "path": "./themes/teranga.json"
       },
       {
         "label": "Jollof",
@@ -52,9 +47,14 @@
         "path": "./themes/jollof.json"
       },
       {
-        "label": "Teranga",
+        "label": "Asamaan",
         "uiTheme": "vs-dark",
-        "path": "./themes/teranga.json"
+        "path": "./themes/asamaan.json"
+      },
+      {
+        "label": "Biddeew",
+        "uiTheme": "vs-dark",
+        "path": "./themes/biddeew.json"
       }
     ]
   }
