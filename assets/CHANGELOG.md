@@ -2,10 +2,18 @@
 
 This file lists all the changes according to the different versions.
 
-## 2.0 - July24 - Update (15.07.2024)
+## 3.0 - August25 - Update (04.08.2025)
+
+- Delete Taaru Guddi and add new theme : Asamaan
+- Update iD (logo, cover) and screenshots
+- Update demos files (make it more simple)
+- Update README docs
+- Add new ignore file
+
+### 2.0 - July24 - Update (15.07.2024)
 
 - Name changed (Taarú to -> Taaru)
-- Delete Taarú Nightand add new theme : Biddeew
+- Delete Taarú Night and add new theme : Biddeew
 - Rename all theme (simple naming)
 - Some minor color fix on Guddi (old Taarú Dark)
 - Update screenshots (one image file now), change cover image
