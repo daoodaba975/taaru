@@ -2,14 +2,14 @@
 
 ![cover](assets/images/cover.png)
 
-![marketplace](https://img.shields.io/vscode-marketplace/v/daoodaba975.taaru.svg?maxAge=3600&style=for-the-badge&labelColor=1D4930&color=52BF81)
-![downloads](https://img.shields.io/visual-studio-marketplace/d/daoodaba975.taaru.svg?maxAge=3600&style=for-the-badge&labelColor=1D4930&color=52BF81)
+![marketplace](https://img.shields.io/vscode-marketplace/v/daoodaba975.taaru.svg?maxAge=3600&style=for-the-badge&labelColor=271452&color=4b2794)
+![downloads](https://img.shields.io/visual-studio-marketplace/d/daoodaba975.taaru.svg?maxAge=3600&style=for-the-badge&labelColor=271452&color=4b2794)
 
 ## Screenshot 🖼️
 
 ![cover](assets/images/screenshot.png)
 
-Taaru VS Code Theme crafted by **[Daouda BA](https://github.com/daoodaba975)**, you can support this project by making a donation **[here](https://www.buymeacoffee.com/daoodaba975)**.
+Taaru VS Code Theme crafted by **[Daouda BA](https://github.com/daoodaba975)**, you can support this project by making **[a donation here](https://www.buymeacoffee.com/daoodaba975)**.
 
 ## Installation 📥
 
@@ -22,7 +22,7 @@ Taaru VS Code Theme crafted by **[Daouda BA](https://github.com/daoodaba975)**, 
 ### Contributing 🌍
 
 New functionality suggestion or more..  
-You can tell me **[here](https://github.com/daoodaba975/taaru/issues)** or on **[X (Twitter)](https://x.com/daoodaba975)** 🙌🏾
+You can **[tell me here](https://github.com/daoodaba975/taaru/issues)** or on **[X (Twitter)](https://x.com/daoodaba975)** 🙌🏾
 
 Also, you might want to check out the **[Contributing Guide](assets/CONTRIBUTING.md)** 🤝🏾
 
