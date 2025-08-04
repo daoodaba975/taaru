@@ -1,3 +1,4 @@
+// Accumulator.java
 public class Accumulator {
   private double sum;
   public Accumulator(double sum0) {
